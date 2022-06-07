@@ -25,4 +25,4 @@ This webpage was made using:
 
 ### Screenshot
 
-![Screenshot](assets\images\Screenshot (6).png)
+![Screenshot](/assets/images/Screenshot (6).png/)
