@@ -36,3 +36,14 @@ div {
     margin-left: 250px;
     -webkit-border-radius: 5px;
 }
+
+/* Navbar links */
+.topnav a {
+    float:right;
+    color: #000000;
+    padding: 5px 5px;
+    text-decoration: none;
+    font-size: 17px;
+    text-align: right;
+    margin: 5px;
+}
