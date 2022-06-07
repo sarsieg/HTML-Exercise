@@ -18,6 +18,11 @@ main {
 
 }
 
+.wrapper {
+    width: 100%;
+    margin: 20px auto;
+}
+
 .bg-img {
     /* The image used */
     background-image: url("../images/Screenshot\ \(1\).png");
@@ -110,4 +115,9 @@ p,
     margin-right: 20px;
     color: white;
     font-weight: 550;
+}
+
+.cards_wrap {
+    display:flex;
+    flex-wrap: wrap;
 }
