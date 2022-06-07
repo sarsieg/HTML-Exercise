@@ -4,3 +4,19 @@ body {
     margin-top: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+div {
+    letter-spacing: 1px;
+}
+
+.bg-img {
+    /* The image used */
+    background-image: url("../images/Screenshot\ \(1\).png");
+    background-color: rgb(112, 128,144);
+    min-height: 153px;
+    /* Center and scale the image nicely */
+    background-position: left;
+    background-repeat: no-repeat;
+    /* Needed to position the navbar */
+    position: relative;
+}
