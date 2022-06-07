@@ -93,3 +93,12 @@ a.right {
 .buy {
     text-align: center;
 }
+
+p,
+.buy {
+    background-color: rgb(247, 134, 41);
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    font-weight: 550;
+}
