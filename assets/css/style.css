@@ -65,3 +65,8 @@ a.right {
     margin-left: 10px;
     font-weight: 600;
 }
+
+.occurs {
+    letter-spacing: 10px;
+    padding-top: 10px;
+}
