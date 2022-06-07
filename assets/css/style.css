@@ -121,3 +121,9 @@ p,
     display:flex;
     flex-wrap: wrap;
 }
+
+.cards_wrap .card_item {
+    width: 25%;
+    padding: 10px;
+    align-items: center;
+}
