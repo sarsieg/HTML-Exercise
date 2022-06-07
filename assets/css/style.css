@@ -9,6 +9,15 @@ div {
     letter-spacing: 1px;
 }
 
+main {
+    background-color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    -webkit-border-radius: 20px;
+
+}
+
 .bg-img {
     /* The image used */
     background-image: url("../images/Screenshot\ \(1\).png");
