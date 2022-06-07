@@ -131,3 +131,10 @@ p,
 .cards_wrap .card_inner {
     background-color: #fff;
 }
+
+.cards_wrap .card_top {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    padding-bottom: 0;
+}
