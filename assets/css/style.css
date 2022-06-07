@@ -1,5 +1,4 @@
-*
-body {
+* body {
     background-color: black;
     margin-top: 20px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -15,7 +14,6 @@ main {
     margin-left: 10px;
     margin-right: 10px;
     -webkit-border-radius: 20px;
-
 }
 
 .wrapper {
@@ -26,7 +24,7 @@ main {
 .bg-img {
     /* The image used */
     background-image: url("../images/Screenshot\ \(1\).png");
-    background-color: rgb(112, 128,144);
+    background-color: rgb(112, 128, 144);
     min-height: 153px;
     /* Center and scale the image nicely */
     background-position: left;
@@ -35,7 +33,9 @@ main {
     position: relative;
 }
 
+
 /* Position the navbar container inside the image */
+
 .container {
     position: absolute;
     margin: 70px;
@@ -43,17 +43,21 @@ main {
     top: -20px;
 }
 
+
 /* The navbar */
+
 .topnav {
     overflow: hidden;
-    background-color: rgb(225, 225, 225);
+    background-color: #ffffff;
     margin-left: 250px;
     -webkit-border-radius: 5px;
 }
 
+
 /* Navbar links */
+
 .topnav a {
-    float:right;
+    float: right;
     color: #000000;
     padding: 5px 5px;
     text-decoration: none;
@@ -124,7 +128,7 @@ p,
 }
 
 .cards_wrap {
-    display:flex;
+    display: flex;
     flex-wrap: wrap;
 }
 
@@ -150,13 +154,12 @@ p,
     font-weight: bold;
 }
 
-.cards_wrap .card_bottom{
+.cards_wrap .card_bottom {
     padding: 15px;
     width: 90%;
-    text-align: center;
 }
 
-.cards_wrap .card_bottom .card_info  {
+.cards_wrap .card_bottom .card_info {
     padding: 5px;
     margin: 10px 0;
     border: 1px rgb(247, 134, 41);
@@ -165,10 +168,10 @@ p,
 }
 
 .cards_wrap .card_bottom .card_info .title {
-    color:rgb(225, 225, 225);
+    
     font-size: 18px;
     margin-bottom: 5px;
-    font-weight:450 ;
+    font-weight: 450;
 }
 
 @media (max-width: 1024px) {
