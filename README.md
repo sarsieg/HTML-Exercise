@@ -5,6 +5,7 @@
 |[Description](#description)|
 |[Live-Link](#live-link)|
 |[Technologies](#technologies)|
+|[Screenshot](#screenshot)|
 
 ## Dev F2F HTML Exercise
 
@@ -21,3 +22,7 @@ This is an HTML page made to replicate an example image given as a challenge to 
 This webpage was made using:
 * HTML
 * CSS
+
+### Screenshot
+
+![Screenshot](assets/images/Screenshot (6).png/)
