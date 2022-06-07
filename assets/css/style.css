@@ -59,7 +59,8 @@ a.right {
     padding-right: 85px;
 }
 
-.something {
+.something,
+.products {
     color: #f78629;
     font-size: 25px;
     margin-left: 10px;
