@@ -28,3 +28,11 @@ div {
     width: auto;
     top: -20px;
 }
+
+/* The navbar */
+.topnav {
+    overflow: hidden;
+    background-color: rgb(225, 225, 225);
+    margin-left: 250px;
+    -webkit-border-radius: 5px;
+}
