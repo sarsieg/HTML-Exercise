@@ -148,3 +148,11 @@ p,
     padding: 15px;
     width: 90%;
 }
+
+.cards_wrap .card_bottom .card_info  {
+    padding: 5px;
+    margin: 10px 0;
+    border: 1px rgb(247, 134, 41);
+    background-color: rgb(247, 134, 41);
+    -webkit-border-radius: 20px;
+}
