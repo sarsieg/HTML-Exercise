@@ -73,6 +73,12 @@ a.right {
     padding-right: 85px;
 }
 
+.column {
+    float: left;
+    width: 50%;
+    min-height: 178px;
+}
+
 .something,
 .products {
     color: #f78629;
