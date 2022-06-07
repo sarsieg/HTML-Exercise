@@ -71,3 +71,15 @@ a.right {
     letter-spacing: 10px;
     padding-top: 10px;
 }
+
+.low {
+    padding-top: 10px;
+}
+
+.drop {
+    padding-top: 25px;
+}
+
+.left {
+    margin-left: 0px;
+}
